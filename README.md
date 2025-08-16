@@ -68,17 +68,10 @@ Welcome to my GitHub! I'm passionate about exploring different areas of programm
 
 Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat about programming!
 
-<div align="center">
-<a href="mailto:your-email@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="35" height="35"/>
-</a>
-<a href="https://www.linkedin.com/in/yunna-kheifets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
-</a>
-<a href="https://www.instagram.com/yun_khey">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="35" height="35"/>
-</a>
-<a href="https://codeforces.com/profile/YKheifets">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" width="35" height="35"/>
-</a>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="16" height="16"/> **Email:** [yunnakheifets@gmail.com](mailto:yunnakheifets@gmail.com)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16"/> **LinkedIn:** [yunna-kheifets](https://www.linkedin.com/in/yunna-kheifets)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="16" height="16"/> **Instagram:** [@yun_khey](https://www.instagram.com/yun_khey)
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" width="16" height="16"/> **Codeforces:** [YKheifets](https://codeforces.com/profile/YKheifets)
